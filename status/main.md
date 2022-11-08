@@ -32,5 +32,5 @@
 
 
 
-[采集相关](https://github.com/huoyan1231/Hypixel-skyblock-Tutorial-for-cn-players/blob/main/status/main.md)
+[采集相关](https://github.com/huoyan1231/Hypixel-skyblock-Tutorial-for-cn-players/blob/main/status/gathering.md)
 
