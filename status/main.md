@@ -32,5 +32,10 @@
 
 
 
+关于Wisdom：Wisdom会增加对应技能的经验获取，每1增加1%
+
+
+
 [采集相关](https://github.com/huoyan1231/Hypixel-skyblock-Tutorial-for-cn-players/blob/main/status/gathering.md)
 
+[其他数据](https://github.com/huoyan1231/Hypixel-skyblock-Tutorial-for-cn-players/blob/main/status/misc.md)
